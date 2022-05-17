@@ -22,4 +22,4 @@
 
 | Known issue |||
 |-|-|-|
-| Klipperscreen | Klipperscreen not work after install | [I4T2SO](https://gitee.com/Neko-vecter/klipper-tested-platform/issues/I4T2SO) |
+| Klipperscreen | Klipperscreen not work after install | [Gitee I4T2SO](https://gitee.com/Neko-vecter/klipper-tested-platform/issues/I4T2SO) |
