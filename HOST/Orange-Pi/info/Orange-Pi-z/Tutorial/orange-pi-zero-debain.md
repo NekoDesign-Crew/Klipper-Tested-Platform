@@ -57,7 +57,7 @@ sudo apt install git
 
 ### Install Klipper with KIAUH
 
-GitHub
+GitHub repo
 
 ```shell
 cd ~
@@ -65,10 +65,16 @@ git clone https://github.com/th33xitus/kiauh.git
 kiauh/kiauh.sh
 ```
 
-Gitee 
+Gitee repo
 
 ```shell
 cd ~
 git clone https://gitee.com/miroky/kiauh.git
 ./kiauh/kiauh.sh
 ```
+
+## Things need notice!
+
+- Webui choose between mainsail and fluidd (only need install one).
+
+- installation on armbian is very similar.
