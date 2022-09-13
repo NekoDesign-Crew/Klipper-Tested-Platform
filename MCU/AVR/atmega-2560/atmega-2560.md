@@ -1,4 +1,4 @@
-# 1284p Cable Flash
+# 2560 Cable Flash
 
 cd into klipper folder. Then config klipper compile option.
 
